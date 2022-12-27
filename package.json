@@ -1,7 +1,7 @@
 {
-    "name": "challenge-week14",
+    "name": "project-tiger",
     "version": "1.0.0",
-    "description": "",
+    "description": "tech-blog",
     "main": "server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Arthur528/project-tigert"
+        "url": "git+https://github.com/Arthur528/project-tiger"
     },
-    "author": "",
+    "author": "Kevin Cain",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/Arthur528/project-tiger/issues"
