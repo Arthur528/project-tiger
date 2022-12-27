@@ -2,7 +2,8 @@
 
 
 ## Licensing:
-[![license](https://img.shields.io/badge/Shark-great%20white-red)](https://shields.io)
+[![license](https://img.shields.io/badge/UW-UW--Coding%20bootcamp-blueviolet)](https://shields.io)
+[![license](https://img.shields.io/badge/Shark-tiger-brightgreen)](https://shields.io)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
 
 ## Description
