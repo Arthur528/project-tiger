@@ -44,3 +44,10 @@ sequelize.sync({
 }).then(() => {
     app.listen(PORT, () => console.log('Now listening'));
 });
+
+
+//                Project Tiger Shark
+//                Module 14 Challenge
+//                Model-View-Controller (MVC)
+//                Challenge: Tech Blog
+//                A J&B Project
