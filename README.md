@@ -7,3 +7,12 @@
 
 ## Description
 The challenge this week is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
+
+## Github repo:
+
+Github: [Arthur528](https://github.com/Arthur528/project-tiger)
+
+## Heroku:
+
+Heroku: [Heroku](https://tiger-tech-blog.herokuapp.com/)
+
